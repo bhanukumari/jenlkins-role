@@ -1,4 +1,4 @@
-job('jenkins') {
+job('bhanu') {
 /*  
   scm {
    github('bhanukumari/jenlkins-role', 'main')
